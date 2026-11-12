@@ -1,0 +1,137 @@
+/* Journey Recommendation · 全局样式（浅色主题，白底卡片风） */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+  background: #f7f8fa;
+  color: #1a1a1a;
+}
+.page { max-width: 1080px; margin: 0 auto; padding: 24px 16px 60px; }
+.back { color: #0b7ad4; text-decoration: none; font-size: 14px; display: inline-block; margin-bottom: 10px; }
+
+/* 顶部导航：Klook 式常驻白底导航条（品牌 + 搜索框） */
+.topnav { position: sticky; top: 0; z-index: 10; background: #fff; box-shadow: 0 1px 4px rgba(0, 0, 0, .08); }
+.topnav-inner { max-width: 1080px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 18px; }
+.brand { font-size: 17px; font-weight: 700; color: #1a1a1a; text-decoration: none; white-space: nowrap; }
+.brand:hover { color: #ff5722; }
+.topnav-search {
+  flex: 1; max-width: 460px; display: flex; align-items: center; gap: 8px;
+  background: #f4f6f8; border: 1px solid transparent; border-radius: 999px; padding: 7px 14px; color: #9aa5b1;
+}
+.topnav-search:focus-within { border-color: #0b7ad4; background: #fff; }
+.topnav-search input { flex: 1; border: none; outline: none; background: transparent; font-size: 13.5px; color: #1a1a1a; min-width: 0; }
+
+/* 面包屑：首页 › 城市 › 路线 */
+.breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 13px; color: #888; margin: 4px 0 16px; flex-wrap: wrap; }
+.breadcrumb a { color: #0b7ad4; text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.page-title { font-size: 20px; margin: 0 0 14px; }
+
+/* 首页城市卡片墙（“想去哪里玩？”） */
+.section-title { font-size: 20px; margin: 6px 0 16px; }
+.city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+.city-card {
+  position: relative; aspect-ratio: 3 / 4; border: none; border-radius: 12px; cursor: pointer;
+  display: flex; flex-direction: column; justify-content: flex-end; align-items: flex-start;
+  padding: 14px; color: #fff; text-align: left; overflow: hidden;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.city-card:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(0, 0, 0, .18); }
+.city-card-name { font-size: 17px; font-weight: 700; text-shadow: 0 1px 6px rgba(0, 0, 0, .45); position: relative; z-index: 1; }
+.city-card-count { font-size: 12px; opacity: .95; text-shadow: 0 1px 4px rgba(0, 0, 0, .45); position: relative; z-index: 1; }
+.city-card-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border: none; }
+.city-card::after { /* 底部压暗渐变，保证文字在亮图上也可读 */ content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 45%, rgba(0, 0, 0, .55) 100%); }
+.city-card-g0 { background: linear-gradient(160deg, #2563a8 0%, #38b2a8 100%); }
+.city-card-g1 { background: linear-gradient(160deg, #6d5bd0 0%, #b84592 100%); }
+.city-card-g2 { background: linear-gradient(160deg, #0f8a5f 0%, #8fb13c 100%); }
+.city-card-g3 { background: linear-gradient(160deg, #d0693a 0%, #d0a03a 100%); }
+
+/* 标签做成链接样式（点击开新标签页） */
+.tag { text-decoration: none; }
+.tag:hover { background: #dceaf8; color: #0b7ad4; }
+
+/* Hero：Klook 式顶部横幅 + 统一搜索框（暂无照片，用渐变底，补图后可换 background-image） */
+.hero { background: linear-gradient(120deg, #2563a8 0%, #2aa79b 100%); padding: 56px 16px 40px; }
+.hero-inner { max-width: 880px; margin: 0 auto; }
+.hero h1 { color: #fff; font-size: 34px; margin: 0 0 22px; letter-spacing: .5px; font-weight: 700; text-shadow: 0 2px 8px rgba(0, 0, 0, .18); }
+.searchbar {
+  display: flex; align-items: center; background: #fff; border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(2, 32, 71, .25); overflow: hidden;
+}
+.searchbar-icon { color: #9aa5b1; margin: 0 6px 0 16px; flex-shrink: 0; }
+.searchbar input {
+  flex: 1; border: none; outline: none; font-size: 16px; padding: 16px 8px; color: #1a1a1a; background: transparent; min-width: 0;
+}
+.searchbar input::placeholder { color: #a5b0bb; }
+.searchbar button {
+  background: #ff5722; color: #fff; border: none; font-size: 16px; font-weight: 600;
+  padding: 16px 34px; cursor: pointer; flex-shrink: 0;
+}
+.searchbar button:hover { background: #f04a17; }
+.hero .recent-bar { margin-top: 16px; }
+.hero .recent-label { color: rgba(255, 255, 255, .8); }
+.hero .chip { background: rgba(255, 255, 255, .92); border-color: transparent; color: #333; }
+
+/* 快捷筛选 chips（城市/标签） */
+.quick-filters { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 10px; }
+.quick-label { color: #999; font-size: 12.5px; margin-right: 2px; flex-shrink: 0; }
+.chip-active { background: #0b7ad4 !important; border-color: #0b7ad4 !important; color: #fff !important; }
+
+/* 最近浏览条 */
+.recent-bar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin: 4px 0; }
+.recent-label { color: #999; font-size: 12px; }
+.chip {
+  background: #fff; border: 1px solid #e0e0e0; color: #555;
+  border-radius: 999px; padding: 4px 12px; font-size: 12.5px; cursor: pointer;
+}
+.chip:hover { border-color: #0b7ad4; color: #0b7ad4; }
+
+/* 卡片网格 */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.card {
+  background: #fff; border: 1px solid #ececec; border-radius: 12px; overflow: hidden;
+  cursor: pointer; box-shadow: 0 1px 3px rgba(0, 0, 0, .05);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.card:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(0, 0, 0, .10); }
+.card-img { width: 100%; height: 140px; object-fit: cover; display: block; }
+.card-img-placeholder {
+  display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 6px;
+  background: linear-gradient(135deg, #4f8ddc 0%, #38b2a8 100%);
+  color: #fff; text-align: center; padding: 12px;
+}
+.placeholder-city { font-size: 11px; letter-spacing: 2px; color: rgba(255, 255, 255, .85); text-transform: uppercase; }
+.placeholder-title { font-size: 15px; font-weight: 600; }
+.card-body { padding: 10px 12px 12px; }
+.card-title { font-size: 14.5px; font-weight: 600; margin-bottom: 8px; color: #1a1a1a; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { background: #eef4fb; color: #2f6fb3; border-radius: 4px; padding: 2px 8px; font-size: 11.5px; }
+
+/* 详情页 */
+.detail {
+  display: flex; gap: 20px; background: #fff; border: 1px solid #ececec;
+  border-radius: 14px; overflow: hidden; margin-bottom: 28px; box-shadow: 0 1px 3px rgba(0, 0, 0, .05);
+}
+.detail-img { width: 340px; min-height: 220px; object-fit: cover; flex-shrink: 0; }
+.detail-img-placeholder {
+  display: flex; align-items: center; justify-content: center; color: #fff;
+  background: linear-gradient(135deg, #4f8ddc 0%, #38b2a8 100%);
+  font-size: 18px; font-weight: 600; text-align: center; padding: 20px;
+}
+.detail-body { padding: 22px 22px 22px 0; }
+.detail-body h1 { margin: 0 0 8px; font-size: 22px; }
+.detail-meta { color: #888; font-size: 13px; margin-bottom: 12px; }
+
+/* 推荐区 */
+.rec-section h2 { font-size: 17px; display: flex; align-items: center; gap: 10px; }
+.strategy { font-size: 11px; font-weight: 600; border-radius: 999px; padding: 3px 10px; }
+.strategy-two_tower { background: #e6f7f0; color: #0a7d55; }
+.strategy-rules { background: #fdf3e3; color: #b26a00; }
+
+.error { background: #fdecec; color: #c0392b; border-radius: 10px; padding: 14px 16px; margin: 14px 0; font-size: 14px; }
+.empty { color: #999; text-align: center; padding: 40px 0; }
+@media (max-width: 640px) {
+  .detail { flex-direction: column; }
+  .detail-img { width: 100%; }
+  .detail-body { padding: 0 16px 18px; }
+}

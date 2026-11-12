@@ -1,0 +1,5 @@
+.git
+.gitignore
+*.md
+deploy/docker-compose.yml
+k6

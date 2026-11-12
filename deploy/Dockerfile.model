@@ -1,0 +1,13 @@
+# Python 双塔推理服务的运行镜像：CPU 版 PyTorch（容器内无 GPU），模型产物挂载或 COPY 进来。
+FROM python:3.14-slim
+
+WORKDIR /srv
+COPY model/requirements.txt /srv/model/requirements.txt
+# CPU 版 torch 从 PyPI 默认源即可获得，体积小很多
+RUN pip install --no-cache-dir -r /srv/model/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+COPY model/twotower.py model/server.py /srv/model/
+ENV MODEL_DIR=/model/artifacts/v1 \
+    PORT=8000
+EXPOSE 8000
+CMD ["python", "/srv/model/server.py"]

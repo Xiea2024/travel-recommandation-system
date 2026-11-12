@@ -1,0 +1,446 @@
+{
+ "kyoto-gion-evening-walk": {
+  "prompt": "Gion district Kyoto at dusk, traditional wooden machiya houses, stone-paved lane, lanterns glowing, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-gion-evening-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:10"
+ },
+ "kyoto-fushimi-inari-shrine": {
+  "prompt": "Fushimi Inari shrine, path through hundreds of vermilion torii gates on a mountainside, Kyoto, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-fushimi-inari-shrine.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:16"
+ },
+ "kyoto-kiyomizu-temple-walk": {
+  "prompt": "Kiyomizu-dera wooden temple stage overlooking Kyoto city and pagoda, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-kiyomizu-temple-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:22"
+ },
+ "kyoto-nishiki-market-food": {
+  "prompt": "Nishiki market Kyoto, narrow covered food arcade with stalls and lanterns, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-nishiki-market-food.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:28"
+ },
+ "kyoto-philosophers-path-walk": {
+  "prompt": "Philosopher's Path Kyoto, stone walkway along a canal with cherry trees, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-philosophers-path-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:34"
+ },
+ "kyoto-kinkakuji-pavilion": {
+  "prompt": "Kinkaku-ji, the Golden Pavilion reflected in a pond, Kyoto, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-kinkakuji-pavilion.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:40"
+ },
+ "kyoto-kurama-onsen-hike": {
+  "prompt": "Kurama mountain temple in forest north of Kyoto, red pagoda among cedar trees, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-kurama-onsen-hike.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:25:45"
+ },
+ "kl-petronas-skybridge": {
+  "prompt": "Petronas Twin Towers and KLCC park, Kuala Lumpur, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-petronas-skybridge.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:19"
+ },
+ "kl-chinatown-food-crawl": {
+  "prompt": "Petaling Street Chinatown Kuala Lumpur at night, neon signs, food stalls, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-chinatown-food-crawl.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:25"
+ },
+ "kl-batu-caves-temple": {
+  "prompt": "Batu Caves, giant golden Murugan statue at rainbow staircase, Kuala Lumpur, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-batu-caves-temple.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:30"
+ },
+ "kl-rooftop-night-view": {
+  "prompt": "Kuala Lumpur skyline at night with Petronas towers, rooftop view, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-rooftop-night-view.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:34"
+ },
+ "kl-family-aquarium-day": {
+  "prompt": "KLCC Aquaria underwater tunnel with rays and sharks, Kuala Lumpur, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-family-aquarium-day.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:40"
+ },
+ "kl-merdeka-heritage-walk": {
+  "prompt": "Sultan Abdul Samad building at Merdeka Square, Kuala Lumpur, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-merdeka-heritage-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:45"
+ },
+ "kl-genting-highlands-day": {
+  "prompt": "Genting Highlands mountain resort above the clouds, Malaysia, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kl-genting-highlands-day.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:50"
+ },
+ "penang-street-art-walk": {
+  "prompt": "George Town Penang street with murals and heritage shophouses, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\penang-street-art-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:27:54"
+ },
+ "penang-clan-jetties-sunset": {
+  "prompt": "Chew Jetty wooden stilt village in George Town Penang at sunset, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\penang-clan-jetties-sunset.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:00"
+ },
+ "penang-night-market-food": {
+  "prompt": "Penang night food market, hawker stalls with smoke and lanterns, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\penang-night-market-food.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:05"
+ },
+ "penang-hill-funicular": {
+  "prompt": "Penang Hill funicular viewpoint overlooking George Town and the sea, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\penang-hill-funicular.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:11"
+ },
+ "penang-kek-lok-si-beach": {
+  "prompt": "Kek Lok Si temple with pagoda on hill, Penang, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\penang-kek-lok-si-beach.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:16"
+ },
+ "langkawi-skybridge-cablecar": {
+  "prompt": "Langkawi Sky Bridge curved pedestrian bridge on mountain top, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\langkawi-skybridge-cablecar.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:21"
+ },
+ "langkawi-island-hopping": {
+  "prompt": "Langkawi tropical islands, turquoise sea and limestone islets, boat trip, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\langkawi-island-hopping.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:26"
+ },
+ "langkawi-mangrove-geopark": {
+  "prompt": "Langkawi mangrove geopark, boat cruising limestone karsts and mangroves, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\langkawi-mangrove-geopark.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:31"
+ },
+ "langkawi-cenang-sunset-jetski": {
+  "prompt": "Pantai Cenang beach Langkawi at golden sunset with jet ski, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\langkawi-cenang-sunset-jetski.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:36"
+ },
+ "langkawi-dutyfree-sailing": {
+  "prompt": "Sailing yacht at sunset near Langkawi islands, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\langkawi-dutyfree-sailing.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:42"
+ },
+ "melaka-red-square-jonker": {
+  "prompt": "Dutch Square Melaka, Christ Church and red clock tower, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\melaka-red-square-jonker.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:47"
+ },
+ "melaka-river-cruise": {
+  "prompt": "Melaka river cruise along heritage buildings lit at night, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\melaka-river-cruise.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:52"
+ },
+ "melaka-st-paul-hill": {
+  "prompt": "St. Paul's Church ruins on St. Paul's Hill overlooking Melaka strait, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\melaka-st-paul-hill.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:28:59"
+ },
+ "melaka-strait-mosque-sunset": {
+  "prompt": "Melaka Straits Mosque standing in water at sunset, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\melaka-strait-mosque-sunset.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:04"
+ },
+ "kk-tanjung-aru-sunset": {
+  "prompt": "Tanjung Aru beach Kota Kinabalu, dramatic orange sunset over calm sea, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kk-tanjung-aru-sunset.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:09"
+ },
+ "kk-kinabalu-park-hiking": {
+  "prompt": "Mount Kinabalu rising above clouds, Sabah Borneo, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kk-kinabalu-park-hiking.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:14"
+ },
+ "kk-islands-snorkel-trip": {
+  "prompt": "Snorkeling over coral and tropical fish, Tunku Abdul Rahman marine park islands, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kk-islands-snorkel-trip.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:19"
+ },
+ "kk-sunday-market-seafood": {
+  "prompt": "Sunday street market Kota Kinabalu, fruit and seafood stalls, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kk-sunday-market-seafood.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:25"
+ },
+ "semporna-kapalai-honeymoon": {
+  "prompt": "Kapalai water bungalow resort on clear turquoise sea, Sabah, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\semporna-kapalai-honeymoon.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:30"
+ },
+ "semporna-sipadan-diving": {
+  "prompt": "Scuba diver over coral wall with green turtles, Sipadan island, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\semporna-sipadan-diving.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:37"
+ },
+ "semporna-tun-sakaran-islands": {
+  "prompt": "Tun Sakaran marine park islands, blue lagoon and reef, Sabah, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\semporna-tun-sakaran-islands.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:43"
+ },
+ "jb-legoland-family": {
+  "prompt": "Colorful Lego-style theme park entrance with brick structures, Legoland Malaysia, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\jb-legoland-family.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:48"
+ },
+ "jb-tan-hiok-nee-food": {
+  "prompt": "Tan Hiok Nee heritage street Johor Bahru, old shophouses and cafes, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\jb-tan-hiok-nee-food.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:52"
+ },
+ "ipoh-oldtown-white-coffee": {
+  "prompt": "Ipoh old town kopitiam, white coffee on marble table, heritage shophouses, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\ipoh-oldtown-white-coffee.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:29:58"
+ },
+ "ipoh-limestone-temple-caves": {
+  "prompt": "Ipoh limestone cave temple among karst hills, Malaysia, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\ipoh-limestone-temple-caves.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:03"
+ },
+ "kyoto-arashiyama-bamboo-walk": {
+  "prompt": "Arashiyama bamboo grove, tall green bamboo stalks with sun rays, Kyoto Japan, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\kyoto-arashiyama-bamboo-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:09"
+ },
+ "city:JP:arashiyama": {
+  "prompt": "Arashiyama bamboo grove and mountain, Kyoto, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\JP-arashiyama.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:18"
+ },
+ "city:JP:kyoto": {
+  "prompt": "Kyoto panorama with five-story pagoda and traditional rooftops, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\JP-kyoto.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:27"
+ },
+ "city:MY:george-town": {
+  "prompt": "George Town Penang heritage streets with clan houses and street art, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-george-town.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:32"
+ },
+ "city:MY:ipoh": {
+  "prompt": "Ipoh old town among limestone karst mountains, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-ipoh.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:38"
+ },
+ "city:MY:johor-bahru": {
+  "prompt": "Johor Bahru city skyline with strait, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-johor-bahru.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:44"
+ },
+ "city:MY:kota-kinabalu": {
+  "prompt": "Kota Kinabalu waterfront with Mount Kinabalu in distance, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-kota-kinabalu.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:51"
+ },
+ "city:MY:kuala-lumpur": {
+  "prompt": "Kuala Lumpur skyline with Petronas Twin Towers at dusk, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-kuala-lumpur.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:30:56"
+ },
+ "city:MY:langkawi": {
+  "prompt": "Langkawi archipelago aerial, turquoise sea and green islands, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-langkawi.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:31:01"
+ },
+ "city:MY:malacca": {
+  "prompt": "Melaka river with Dutch Square red buildings and murals, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-malacca.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:31:06"
+ },
+ "city:MY:semporna": {
+  "prompt": "Semporna sea gypsy village on stilts over turquoise water, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\MY-semporna.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:31:11"
+ },
+ "shanghai-bund-architecture-walk": {
+  "prompt": "The Bund Shanghai, colonial-era stone architecture along the waterfront promenade, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-bund-architecture-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:29"
+ },
+ "shanghai-lujiazui-skyline-night": {
+  "prompt": "Lujiazui Pudong skyline at night, Oriental Pearl Tower and skyscrapers across the river, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-lujiazui-skyline-night.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:34"
+ },
+ "shanghai-yu-garden-bazaar": {
+  "prompt": "Yu Garden bazaar Shanghai, traditional curved roofs and red lanterns at City God Temple, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-yu-garden-bazaar.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:39"
+ },
+ "shanghai-tianzifang-art-lanes": {
+  "prompt": "Tianzifang Shanghai, narrow art lanes with cafes and studios in old shikumen houses, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-tianzifang-art-lanes.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:47"
+ },
+ "shanghai-french-concession-plane-trees": {
+  "prompt": "Wukang Road French Concession Shanghai, plane trees lining heritage villas, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-french-concession-plane-trees.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:52"
+ },
+ "shanghai-zhujiajiao-water-town": {
+  "prompt": "Zhujiajiao water town near Shanghai, stone bridges and canals with wooden boats, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-zhujiajiao-water-town.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:41:58"
+ },
+ "shanghai-observatory-sunset": {
+  "prompt": "Shanghai Tower observatory at sunset, city skyline bathed in golden haze, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-observatory-sunset.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:06"
+ },
+ "shanghai-nanjing-road-shopping": {
+  "prompt": "Nanjing Road pedestrian street Shanghai, neon signs and crowds at dusk, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-nanjing-road-shopping.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:11"
+ },
+ "shanghai-m50-art-district": {
+  "prompt": "M50 art district Shanghai, contemporary galleries in a former industrial complex, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-m50-art-district.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:15"
+ },
+ "shanghai-xiaolongbao-food-tour": {
+  "prompt": "Shanghai soup dumplings xiaolongbao in bamboo steamer baskets, food stall scene, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-xiaolongbao-food-tour.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:21"
+ },
+ "shanghai-huangpu-river-cruise": {
+  "prompt": "Huangpu River night cruise, both banks of Shanghai lit up, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-huangpu-river-cruise.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:27"
+ },
+ "shanghai-century-park-family": {
+  "prompt": "Century Park Shanghai, family picnic on lawn by the lake, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\shanghai-century-park-family.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:32"
+ },
+ "xiamen-gulangyu-island-walk": {
+  "prompt": "Gulangyu island Xiamen, colonial villas and winding lanes, sea view, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-gulangyu-island-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:38"
+ },
+ "xiamen-hulishan-fortress": {
+  "prompt": "Hulishan cannon fortress by the sea, Xiamen coastal promenade at sunset, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-hulishan-fortress.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:43"
+ },
+ "xiamen-zhongshan-road-food": {
+  "prompt": "Zhongshan Road Xiamen, qilou arcade street with food stalls at night, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-zhongshan-road-food.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:48"
+ },
+ "xiamen-nanputuo-temple": {
+  "prompt": "Nanputuo Temple Xiamen, ornate Buddhist temple with pagoda and lotus pond, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-nanputuo-temple.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:54"
+ },
+ "xiamen-zengcuoan-village": {
+  "prompt": "Zengcuo'an fishing village Xiamen, colorful guesthouses and snack street, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-zengcuoan-village.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:42:59"
+ },
+ "xiamen-shapowei-art-zone": {
+  "prompt": "Shapowei art zone Xiamen, old harbor warehouses turned cafes and galleries, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-shapowei-art-zone.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:03"
+ },
+ "xiamen-yundang-lake-walk": {
+  "prompt": "Yundang Lake Xiamen, lakeside promenade with skyline reflections, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-yundang-lake-walk.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:08"
+ },
+ "xiamen-wanshan-botanical-garden": {
+  "prompt": "Xiamen botanical garden, tropical succulents and misty rainforest greenhouse, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-wanshan-botanical-garden.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:14"
+ },
+ "xiamen-jimei-school-village": {
+  "prompt": "Jimei school village Xiamen, distinctive Kah Kee style architecture with red roofs, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-jimei-school-village.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:19"
+ },
+ "xiamen-beach-coffee-sunset": {
+  "prompt": "Xiamen island ring road beach, coffee cart on sand at golden sunset, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\routes\\xiamen-beach-coffee-sunset.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:24"
+ },
+ "city:CN:shanghai": {
+  "prompt": "Shanghai skyline, the Bund and Lujiazui towers across Huangpu River, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\CN-shanghai.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:30"
+ },
+ "city:CN:xiamen": {
+  "prompt": "Xiamen Gulangyu island and coastal skyline, Egret Island, travel album illustration, painterly gouache style, warm vibrant palette, scenic wide composition, soft light, no text, no watermark",
+  "file": "frontend\\public\\images\\cities\\CN-xiamen.webp",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "ts": "2026-11-12T17:43:34"
+ }
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "session_id": "s01",
+    "route_ids": [
+      "penang-street-art-walk",
+      "penang-night-market-food",
+      "penang-clan-jetties-sunset",
+      "penang-hill-funicular",
+      "penang-kek-lok-si-beach"
+    ]
+  },
+  {
+    "session_id": "s02",
+    "route_ids": [
+      "penang-hill-funicular",
+      "penang-street-art-walk",
+      "penang-night-market-food",
+      "penang-clan-jetties-sunset"
+    ]
+  },
+  {
+    "session_id": "s03",
+    "route_ids": [
+      "penang-night-market-food",
+      "penang-clan-jetties-sunset",
+      "penang-kek-lok-si-beach",
+      "penang-street-art-walk"
+    ]
+  },
+  {
+    "session_id": "s04",
+    "route_ids": [
+      "penang-kek-lok-si-beach",
+      "penang-hill-funicular",
+      "penang-night-market-food",
+      "penang-street-art-walk",
+      "penang-clan-jetties-sunset"
+    ]
+  },
+  {
+    "session_id": "s05",
+    "route_ids": [
+      "penang-clan-jetties-sunset",
+      "penang-street-art-walk",
+      "penang-hill-funicular",
+      "penang-night-market-food"
+    ]
+  },
+  {
+    "session_id": "s06",
+    "route_ids": [
+      "kl-petronas-skybridge",
+      "kl-merdeka-heritage-walk",
+      "kl-chinatown-food-crawl",
+      "kl-rooftop-night-view",
+      "kl-batu-caves-temple"
+    ]
+  },
+  {
+    "session_id": "s07",
+    "route_ids": [
+      "kl-chinatown-food-crawl",
+      "kl-petronas-skybridge",
+      "kl-family-aquarium-day",
+      "kl-genting-highlands-day"
+    ]
+  },
+  {
+    "session_id": "s08",
+    "route_ids": [
+      "kl-merdeka-heritage-walk",
+      "kl-rooftop-night-view",
+      "kl-petronas-skybridge",
+      "kl-chinatown-food-crawl",
+      "kl-batu-caves-temple"
+    ]
+  },
+  {
+    "session_id": "s09",
+    "route_ids": [
+      "kl-batu-caves-temple",
+      "kl-chinatown-food-crawl",
+      "kl-merdeka-heritage-walk",
+      "kl-rooftop-night-view"
+    ]
+  },
+  {
+    "session_id": "s10",
+    "route_ids": [
+      "kl-family-aquarium-day",
+      "kl-genting-highlands-day",
+      "kl-petronas-skybridge",
+      "kl-chinatown-food-crawl"
+    ]
+  },
+  {
+    "session_id": "s11",
+    "route_ids": [
+      "langkawi-skybridge-cablecar",
+      "langkawi-island-hopping",
+      "langkawi-cenang-sunset-jetski",
+      "langkawi-dutyfree-sailing"
+    ]
+  },
+  {
+    "session_id": "s12",
+    "route_ids": [
+      "langkawi-cenang-sunset-jetski",
+      "langkawi-mangrove-geopark",
+      "langkawi-island-hopping",
+      "langkawi-dutyfree-sailing"
+    ]
+  },
+  {
+    "session_id": "s13",
+    "route_ids": [
+      "langkawi-island-hopping",
+      "langkawi-skybridge-cablecar",
+      "langkawi-mangrove-geopark",
+      "langkawi-cenang-sunset-jetski"
+    ]
+  },
+  {
+    "session_id": "s14",
+    "route_ids": [
+      "melaka-red-square-jonker",
+      "melaka-river-cruise",
+      "melaka-st-paul-hill",
+      "melaka-strait-mosque-sunset"
+    ]
+  },
+  {
+    "session_id": "s15",
+    "route_ids": [
+      "melaka-st-paul-hill",
+      "melaka-red-square-jonker",
+      "melaka-river-cruise",
+      "melaka-strait-mosque-sunset"
+    ]
+  },
+  {
+    "session_id": "s16",
+    "route_ids": [
+      "melaka-river-cruise",
+      "melaka-strait-mosque-sunset",
+      "melaka-red-square-jonker",
+      "melaka-st-paul-hill"
+    ]
+  },
+  {
+    "session_id": "s17",
+    "route_ids": [
+      "kk-sunday-market-seafood",
+      "kk-tanjung-aru-sunset",
+      "kk-islands-snorkel-trip",
+      "kk-kinabalu-park-hiking"
+    ]
+  },
+  {
+    "session_id": "s18",
+    "route_ids": [
+      "kk-islands-snorkel-trip",
+      "kk-tanjung-aru-sunset",
+      "kk-sunday-market-seafood",
+      "kk-kinabalu-park-hiking"
+    ]
+  },
+  {
+    "session_id": "s19",
+    "route_ids": [
+      "semporna-kapalai-honeymoon",
+      "semporna-sipadan-diving",
+      "semporna-tun-sakaran-islands"
+    ]
+  },
+  {
+    "session_id": "s20",
+    "route_ids": [
+      "semporna-sipadan-diving",
+      "semporna-tun-sakaran-islands",
+      "semporna-kapalai-honeymoon"
+    ]
+  },
+  {
+    "session_id": "s21",
+    "route_ids": [
+      "ipoh-oldtown-white-coffee",
+      "ipoh-limestone-temple-caves",
+      "penang-street-art-walk",
+      "penang-night-market-food"
+    ]
+  },
+  {
+    "session_id": "s22",
+    "route_ids": [
+      "jb-tan-hiok-nee-food",
+      "jb-legoland-family",
+      "melaka-red-square-jonker",
+      "melaka-river-cruise"
+    ]
+  },
+  {
+    "session_id": "s23",
+    "route_ids": [
+      "kyoto-gion-evening-walk",
+      "kyoto-kiyomizu-temple-walk",
+      "kyoto-nishiki-market-food",
+      "kyoto-philosophers-path-walk",
+      "kyoto-kinkakuji-pavilion"
+    ]
+  },
+  {
+    "session_id": "s24",
+    "route_ids": [
+      "kyoto-fushimi-inari-shrine",
+      "kyoto-gion-evening-walk",
+      "kyoto-kiyomizu-temple-walk",
+      "kyoto-nishiki-market-food"
+    ]
+  },
+  {
+    "session_id": "s25",
+    "route_ids": [
+      "kyoto-arashiyama-bamboo-walk",
+      "kyoto-kurama-onsen-hike",
+      "kyoto-kinkakuji-pavilion",
+      "kyoto-philosophers-path-walk"
+    ]
+  },
+  {
+    "session_id": "s26",
+    "route_ids": [
+      "kyoto-nishiki-market-food",
+      "kyoto-arashiyama-bamboo-walk",
+      "kyoto-kurama-onsen-hike",
+      "kyoto-gion-evening-walk"
+    ]
+  },
+  {
+    "session_id": "s27",
+    "route_ids": [
+      "kyoto-kinkakuji-pavilion",
+      "kyoto-philosophers-path-walk",
+      "kyoto-gion-evening-walk",
+      "kyoto-kiyomizu-temple-walk"
+    ]
+  },
+  {
+    "session_id": "s28",
+    "route_ids": [
+      "penang-night-market-food",
+      "ipoh-oldtown-white-coffee",
+      "kyoto-nishiki-market-food",
+      "kyoto-gion-evening-walk"
+    ]
+  },
+  {
+    "session_id": "s29",
+    "route_ids": [
+      "kl-chinatown-food-crawl",
+      "penang-night-market-food",
+      "kyoto-nishiki-market-food",
+      "kyoto-kiyomizu-temple-walk"
+    ]
+  },
+  {
+    "session_id": "s30",
+    "route_ids": [
+      "kyoto-fushimi-inari-shrine",
+      "kl-batu-caves-temple",
+      "penang-kek-lok-si-beach",
+      "ipoh-limestone-temple-caves"
+    ]
+  },
+  {
+    "session_id": "s31",
+    "route_ids": [
+      "shanghai-bund-architecture-walk",
+      "shanghai-yu-garden-bazaar",
+      "shanghai-nanjing-road-shopping",
+      "shanghai-lujiazui-skyline-night"
+    ]
+  },
+  {
+    "session_id": "s32",
+    "route_ids": [
+      "shanghai-french-concession-plane-trees",
+      "shanghai-tianzifang-art-lanes",
+      "shanghai-xiaolongbao-food-tour"
+    ]
+  },
+  {
+    "session_id": "s33",
+    "route_ids": [
+      "xiamen-gulangyu-island-walk",
+      "xiamen-zhongshan-road-food",
+      "xiamen-zengcuoan-village"
+    ]
+  },
+  {
+    "session_id": "s34",
+    "route_ids": [
+      "xiamen-nanputuo-temple",
+      "xiamen-shapowei-art-zone",
+      "xiamen-beach-coffee-sunset"
+    ]
+  }
+]

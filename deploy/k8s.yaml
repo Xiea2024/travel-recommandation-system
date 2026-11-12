@@ -1,0 +1,112 @@
+# 旅行路线推荐后端部署到本地 K8s（kind / minikube）的最小清单：
+# Go API（2 副本）+ Python 双塔推理服务（1 副本）+ 两个 Service。
+#
+# Pod 访问宿主机上 docker compose 起的 ES/Redis：
+#   - kind（Docker Desktop 驱动）：host.docker.internal 可直接解析到宿主机。
+#   - minikube（docker 驱动）：把 env 里的 host.docker.internal 改成 host.minikube.internal。
+#   - 若集群在远程机器上，把 ES_URL / REDIS_ADDR 指向可达地址即可。
+#
+# 模型产物（model/artifacts）在镜像构建时 COPY 进模型镜像，也可以改挂 PVC。
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: route-recommender
+  labels:
+    app: route-recommender
+spec:
+  replicas: 2 # 两个副本共用一个 Redis，压测时可删掉一个观察另一个继续服务
+  selector:
+    matchLabels:
+      app: route-recommender
+  template:
+    metadata:
+      labels:
+        app: route-recommender
+    spec:
+      terminationGracePeriodSeconds: 15 # 要大于代码里优雅退出的 8s 兜底超时
+      containers:
+        - name: api
+          image: route-recommender:latest
+          imagePullPolicy: IfNotPresent # 本地构建的镜像，kind 需先 kind load docker-image
+          ports:
+            - containerPort: 8080
+          env:
+            - name: ES_URL
+              value: "http://host.docker.internal:9200"
+            - name: REDIS_ADDR
+              value: "host.docker.internal:6379"
+            - name: ES_INDEX
+              value: "routes"
+            - name: MODEL_URL
+              value: "http://route-recommender-model:8000"
+            - name: MODEL_VERSION
+              value: "v1"
+            - name: CACHE_TTL
+              value: "5m"
+          readinessProbe:
+            httpGet: { path: /healthz, port: 8080 }
+            periodSeconds: 3
+          resources:
+            requests: { cpu: "100m", memory: "64Mi" }
+            limits: { cpu: "500m", memory: "256Mi" }
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: route-recommender
+spec:
+  type: NodePort
+  selector:
+    app: route-recommender
+  ports:
+    - name: http
+      port: 80
+      targetPort: 8080
+      nodePort: 30080
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: route-recommender-model
+  labels:
+    app: route-recommender-model
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: route-recommender-model
+  template:
+    metadata:
+      labels:
+        app: route-recommender-model
+    spec:
+      containers:
+        - name: model
+          image: route-recommender-model:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+          env:
+            - name: MODEL_DIR
+              value: "/model/artifacts/v1" # 训练产物已在镜像里（deploy/Dockerfile.model）
+            - name: PORT
+              value: "8000"
+          readinessProbe:
+            httpGet: { path: /healthz, port: 8000 }
+            periodSeconds: 5
+          resources:
+            requests: { cpu: "200m", memory: "256Mi" }
+            limits: { cpu: "1000m", memory: "1Gi" }
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: route-recommender-model
+spec:
+  type: ClusterIP
+  selector:
+    app: route-recommender-model
+  ports:
+    - name: http
+      port: 8000
+      targetPort: 8000

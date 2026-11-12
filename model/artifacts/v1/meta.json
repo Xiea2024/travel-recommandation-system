@@ -1,0 +1,20 @@
+{
+  "version": "v1",
+  "out_dim": 32,
+  "tag_dim": 16,
+  "seed": 42,
+  "trained_at": "2026-11-12T15:39:46",
+  "n_routes": 40,
+  "n_train_samples": 75,
+  "n_test_samples": 18,
+  "test_sessions": [
+    "s07",
+    "s11",
+    "s15",
+    "s20",
+    "s23",
+    "s27"
+  ],
+  "negatives_per_sample": 4,
+  "device_used": "cuda"
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "route_id": "kyoto-gion-evening-walk",
+    "title": "祇园黄昏石板路散步",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "heritage",
+      "walking",
+      "night"
+    ],
+    "image_url": "/images/routes/kyoto-gion-evening-walk.webp"
+  },
+  {
+    "route_id": "kyoto-fushimi-inari-shrine",
+    "title": "伏见稻荷千本鸟居",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "shrine",
+      "hiking",
+      "photography"
+    ],
+    "image_url": "/images/routes/kyoto-fushimi-inari-shrine.webp"
+  },
+  {
+    "route_id": "kyoto-arashiyama-bamboo-walk",
+    "title": "岚山竹林小径",
+    "country_code": "JP",
+    "city_id": "JP:arashiyama",
+    "tags": [
+      "bamboo",
+      "garden",
+      "walking"
+    ],
+    "image_url": "/images/routes/kyoto-arashiyama-bamboo-walk.webp"
+  },
+  {
+    "route_id": "kyoto-kiyomizu-temple-walk",
+    "title": "清水寺与二三年坂",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "temple",
+      "walking",
+      "heritage"
+    ],
+    "image_url": "/images/routes/kyoto-kiyomizu-temple-walk.webp"
+  },
+  {
+    "route_id": "kyoto-nishiki-market-food",
+    "title": "锦市场美食巡礼",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "food",
+      "market",
+      "walking"
+    ],
+    "image_url": "/images/routes/kyoto-nishiki-market-food.webp"
+  },
+  {
+    "route_id": "kyoto-philosophers-path-walk",
+    "title": "哲学之道樱花散步",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "walking",
+      "garden",
+      "seasonal"
+    ],
+    "image_url": "/images/routes/kyoto-philosophers-path-walk.webp"
+  },
+  {
+    "route_id": "kyoto-kinkakuji-pavilion",
+    "title": "金阁寺庭园",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "heritage",
+      "garden",
+      "photography"
+    ],
+    "image_url": "/images/routes/kyoto-kinkakuji-pavilion.webp"
+  },
+  {
+    "route_id": "kyoto-kurama-onsen-hike",
+    "title": "鞍马山温泉徒步",
+    "country_code": "JP",
+    "city_id": "JP:kyoto",
+    "tags": [
+      "hiking",
+      "onsen",
+      "nature"
+    ],
+    "image_url": "/images/routes/kyoto-kurama-onsen-hike.webp"
+  }
+]

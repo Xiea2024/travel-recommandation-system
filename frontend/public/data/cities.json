@@ -1,0 +1,62 @@
+{
+ "JP:arashiyama": {
+  "city_id": "JP:arashiyama",
+  "name": "arashiyama",
+  "image_url": "/images/cities/JP-arashiyama.webp"
+ },
+ "JP:kyoto": {
+  "city_id": "JP:kyoto",
+  "name": "kyoto",
+  "image_url": "/images/cities/JP-kyoto.webp"
+ },
+ "MY:george-town": {
+  "city_id": "MY:george-town",
+  "name": "george town",
+  "image_url": "/images/cities/MY-george-town.webp"
+ },
+ "MY:ipoh": {
+  "city_id": "MY:ipoh",
+  "name": "ipoh",
+  "image_url": "/images/cities/MY-ipoh.webp"
+ },
+ "MY:johor-bahru": {
+  "city_id": "MY:johor-bahru",
+  "name": "johor bahru",
+  "image_url": "/images/cities/MY-johor-bahru.webp"
+ },
+ "MY:kota-kinabalu": {
+  "city_id": "MY:kota-kinabalu",
+  "name": "kota kinabalu",
+  "image_url": "/images/cities/MY-kota-kinabalu.webp"
+ },
+ "MY:kuala-lumpur": {
+  "city_id": "MY:kuala-lumpur",
+  "name": "kuala lumpur",
+  "image_url": "/images/cities/MY-kuala-lumpur.webp"
+ },
+ "MY:langkawi": {
+  "city_id": "MY:langkawi",
+  "name": "langkawi",
+  "image_url": "/images/cities/MY-langkawi.webp"
+ },
+ "MY:malacca": {
+  "city_id": "MY:malacca",
+  "name": "malacca",
+  "image_url": "/images/cities/MY-malacca.webp"
+ },
+ "MY:semporna": {
+  "city_id": "MY:semporna",
+  "name": "semporna",
+  "image_url": "/images/cities/MY-semporna.webp"
+ },
+ "CN:shanghai": {
+  "city_id": "CN:shanghai",
+  "name": "shanghai",
+  "image_url": "/images/cities/CN-shanghai.webp"
+ },
+ "CN:xiamen": {
+  "city_id": "CN:xiamen",
+  "name": "xiamen",
+  "image_url": "/images/cities/CN-xiamen.webp"
+ }
+}

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/storage.ts","./src/components/recentbar.tsx","./src/components/routecard.tsx","./src/components/topnav.tsx","./src/pages/citypage.tsx","./src/pages/home.tsx","./src/pages/routedetail.tsx","./src/pages/searchpage.tsx","./vite.config.ts"],"version":"5.6.3"}

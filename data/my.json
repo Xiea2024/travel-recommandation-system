@@ -1,0 +1,381 @@
+[
+  {
+    "route_id": "kl-petronas-skybridge",
+    "title": "双子塔空中走廊与城市公园",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "architecture",
+      "shopping",
+      "landmark"
+    ],
+    "image_url": "/images/routes/kl-petronas-skybridge.webp"
+  },
+  {
+    "route_id": "kl-chinatown-food-crawl",
+    "title": "茨厂街美食漫步",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "food",
+      "night-market",
+      "chinatown"
+    ],
+    "image_url": "/images/routes/kl-chinatown-food-crawl.webp"
+  },
+  {
+    "route_id": "kl-batu-caves-temple",
+    "title": "黑风洞彩虹阶梯寺庙",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "temple",
+      "nature",
+      "photography"
+    ],
+    "image_url": "/images/routes/kl-batu-caves-temple.webp"
+  },
+  {
+    "route_id": "kl-rooftop-night-view",
+    "title": "屋顶酒吧夜景",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "night",
+      "photography",
+      "landmark"
+    ],
+    "image_url": "/images/routes/kl-rooftop-night-view.webp"
+  },
+  {
+    "route_id": "kl-family-aquarium-day",
+    "title": "阳光广场水族馆亲子日",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "family",
+      "shopping",
+      "theme-park"
+    ],
+    "image_url": "/images/routes/kl-family-aquarium-day.webp"
+  },
+  {
+    "route_id": "kl-merdeka-heritage-walk",
+    "title": "独立广场殖民建筑徒步",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "heritage",
+      "architecture",
+      "walking"
+    ],
+    "image_url": "/images/routes/kl-merdeka-heritage-walk.webp"
+  },
+  {
+    "route_id": "kl-genting-highlands-day",
+    "title": "云顶高原主题乐园",
+    "country_code": "MY",
+    "city_id": "MY:kuala-lumpur",
+    "tags": [
+      "theme-park",
+      "shopping",
+      "family"
+    ],
+    "image_url": "/images/routes/kl-genting-highlands-day.webp"
+  },
+  {
+    "route_id": "penang-street-art-walk",
+    "title": "乔治市壁画街头艺术寻宝",
+    "country_code": "MY",
+    "city_id": "MY:george-town",
+    "tags": [
+      "street-art",
+      "heritage",
+      "photography"
+    ],
+    "image_url": "/images/routes/penang-street-art-walk.webp"
+  },
+  {
+    "route_id": "penang-clan-jetties-sunset",
+    "title": "姓氏桥海上民居日落",
+    "country_code": "MY",
+    "city_id": "MY:george-town",
+    "tags": [
+      "heritage",
+      "sunset",
+      "walking"
+    ],
+    "image_url": "/images/routes/penang-clan-jetties-sunset.webp"
+  },
+  {
+    "route_id": "penang-night-market-food",
+    "title": "汕头街夜市美食扫荡",
+    "country_code": "MY",
+    "city_id": "MY:george-town",
+    "tags": [
+      "food",
+      "night-market"
+    ],
+    "image_url": "/images/routes/penang-night-market-food.webp"
+  },
+  {
+    "route_id": "penang-hill-funicular",
+    "title": "升旗山缆车与山顶咖啡",
+    "country_code": "MY",
+    "city_id": "MY:george-town",
+    "tags": [
+      "nature",
+      "coffee",
+      "family"
+    ],
+    "image_url": "/images/routes/penang-hill-funicular.webp"
+  },
+  {
+    "route_id": "penang-kek-lok-si-beach",
+    "title": "极乐寺与峇都丁宜海滩",
+    "country_code": "MY",
+    "city_id": "MY:george-town",
+    "tags": [
+      "temple",
+      "beach",
+      "sunset"
+    ],
+    "image_url": "/images/routes/penang-kek-lok-si-beach.webp"
+  },
+  {
+    "route_id": "langkawi-skybridge-cablecar",
+    "title": "天空之桥缆车云端之旅",
+    "country_code": "MY",
+    "city_id": "MY:langkawi",
+    "tags": [
+      "nature",
+      "photography",
+      "family"
+    ],
+    "image_url": "/images/routes/langkawi-skybridge-cablecar.webp"
+  },
+  {
+    "route_id": "langkawi-island-hopping",
+    "title": "跳岛三岛游",
+    "country_code": "MY",
+    "city_id": "MY:langkawi",
+    "tags": [
+      "island",
+      "beach",
+      "snorkeling"
+    ],
+    "image_url": "/images/routes/langkawi-island-hopping.webp"
+  },
+  {
+    "route_id": "langkawi-mangrove-geopark",
+    "title": "红树林地质公园探险",
+    "country_code": "MY",
+    "city_id": "MY:langkawi",
+    "tags": [
+      "nature",
+      "hiking",
+      "boat"
+    ],
+    "image_url": "/images/routes/langkawi-mangrove-geopark.webp"
+  },
+  {
+    "route_id": "langkawi-cenang-sunset-jetski",
+    "title": "珍南海滩日落与摩托艇",
+    "country_code": "MY",
+    "city_id": "MY:langkawi",
+    "tags": [
+      "beach",
+      "sunset",
+      "family"
+    ],
+    "image_url": "/images/routes/langkawi-cenang-sunset-jetski.webp"
+  },
+  {
+    "route_id": "langkawi-dutyfree-sailing",
+    "title": "免税购物与夕阳帆船",
+    "country_code": "MY",
+    "city_id": "MY:langkawi",
+    "tags": [
+      "shopping",
+      "island",
+      "honeymoon"
+    ],
+    "image_url": "/images/routes/langkawi-dutyfree-sailing.webp"
+  },
+  {
+    "route_id": "melaka-red-square-jonker",
+    "title": "荷兰红屋与鸡场街古早味",
+    "country_code": "MY",
+    "city_id": "MY:malacca",
+    "tags": [
+      "heritage",
+      "food",
+      "walking"
+    ],
+    "image_url": "/images/routes/melaka-red-square-jonker.webp"
+  },
+  {
+    "route_id": "melaka-river-cruise",
+    "title": "马六甲河游船夜航",
+    "country_code": "MY",
+    "city_id": "MY:malacca",
+    "tags": [
+      "night",
+      "heritage",
+      "cruise"
+    ],
+    "image_url": "/images/routes/melaka-river-cruise.webp"
+  },
+  {
+    "route_id": "melaka-st-paul-hill",
+    "title": "圣地亚哥城门与圣保罗山",
+    "country_code": "MY",
+    "city_id": "MY:malacca",
+    "tags": [
+      "heritage",
+      "hiking"
+    ],
+    "image_url": "/images/routes/melaka-st-paul-hill.webp"
+  },
+  {
+    "route_id": "melaka-strait-mosque-sunset",
+    "title": "海峡清真寺海上日落",
+    "country_code": "MY",
+    "city_id": "MY:malacca",
+    "tags": [
+      "mosque",
+      "sunset",
+      "photography"
+    ],
+    "image_url": "/images/routes/melaka-strait-mosque-sunset.webp"
+  },
+  {
+    "route_id": "kk-tanjung-aru-sunset",
+    "title": "丹绒亚路世界十大日落",
+    "country_code": "MY",
+    "city_id": "MY:kota-kinabalu",
+    "tags": [
+      "sunset",
+      "beach"
+    ],
+    "image_url": "/images/routes/kk-tanjung-aru-sunset.webp"
+  },
+  {
+    "route_id": "kk-kinabalu-park-hiking",
+    "title": "神山公园吊桥与温泉",
+    "country_code": "MY",
+    "city_id": "MY:kota-kinabalu",
+    "tags": [
+      "hiking",
+      "nature",
+      "photography"
+    ],
+    "image_url": "/images/routes/kk-kinabalu-park-hiking.webp"
+  },
+  {
+    "route_id": "kk-islands-snorkel-trip",
+    "title": "东姑海岛公园浮潜",
+    "country_code": "MY",
+    "city_id": "MY:kota-kinabalu",
+    "tags": [
+      "island",
+      "snorkeling",
+      "family"
+    ],
+    "image_url": "/images/routes/kk-islands-snorkel-trip.webp"
+  },
+  {
+    "route_id": "kk-sunday-market-seafood",
+    "title": "加雅街周日市场与海鲜",
+    "country_code": "MY",
+    "city_id": "MY:kota-kinabalu",
+    "tags": [
+      "food",
+      "market",
+      "night-market"
+    ],
+    "image_url": "/images/routes/kk-sunday-market-seafood.webp"
+  },
+  {
+    "route_id": "semporna-kapalai-honeymoon",
+    "title": "卡帕莱水屋蜜月",
+    "country_code": "MY",
+    "city_id": "MY:semporna",
+    "tags": [
+      "honeymoon",
+      "island",
+      "diving"
+    ],
+    "image_url": "/images/routes/semporna-kapalai-honeymoon.webp"
+  },
+  {
+    "route_id": "semporna-sipadan-diving",
+    "title": "诗巴丹潜水朝圣",
+    "country_code": "MY",
+    "city_id": "MY:semporna",
+    "tags": [
+      "diving",
+      "island",
+      "wildlife"
+    ],
+    "image_url": "/images/routes/semporna-sipadan-diving.webp"
+  },
+  {
+    "route_id": "semporna-tun-sakaran-islands",
+    "title": "敦沙卡兰海洋公园跳岛",
+    "country_code": "MY",
+    "city_id": "MY:semporna",
+    "tags": [
+      "island",
+      "snorkeling",
+      "hiking"
+    ],
+    "image_url": "/images/routes/semporna-tun-sakaran-islands.webp"
+  },
+  {
+    "route_id": "jb-legoland-family",
+    "title": "乐高乐园亲子两日游",
+    "country_code": "MY",
+    "city_id": "MY:johor-bahru",
+    "tags": [
+      "family",
+      "theme-park"
+    ],
+    "image_url": "/images/routes/jb-legoland-family.webp"
+  },
+  {
+    "route_id": "jb-tan-hiok-nee-food",
+    "title": "陈旭年街古早美食",
+    "country_code": "MY",
+    "city_id": "MY:johor-bahru",
+    "tags": [
+      "food",
+      "heritage",
+      "walking"
+    ],
+    "image_url": "/images/routes/jb-tan-hiok-nee-food.webp"
+  },
+  {
+    "route_id": "ipoh-oldtown-white-coffee",
+    "title": "旧街场白咖啡与芽菜鸡",
+    "country_code": "MY",
+    "city_id": "MY:ipoh",
+    "tags": [
+      "food",
+      "coffee"
+    ],
+    "image_url": "/images/routes/ipoh-oldtown-white-coffee.webp"
+  },
+  {
+    "route_id": "ipoh-limestone-temple-caves",
+    "title": "清心岭溶洞寺庙",
+    "country_code": "MY",
+    "city_id": "MY:ipoh",
+    "tags": [
+      "nature",
+      "temple",
+      "photography"
+    ],
+    "image_url": "/images/routes/ipoh-limestone-temple-caves.webp"
+  }
+]

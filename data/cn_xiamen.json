@@ -1,0 +1,120 @@
+[
+  {
+    "route_id": "xiamen-gulangyu-island-walk",
+    "title": "鼓浪屿环岛漫步",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "island",
+      "heritage",
+      "walking"
+    ],
+    "image_url": "/images/routes/xiamen-gulangyu-island-walk.webp"
+  },
+  {
+    "route_id": "xiamen-hulishan-fortress",
+    "title": "胡里山炮台与环岛路",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "heritage",
+      "sunset",
+      "walking"
+    ],
+    "image_url": "/images/routes/xiamen-hulishan-fortress.webp"
+  },
+  {
+    "route_id": "xiamen-zhongshan-road-food",
+    "title": "中山路骑楼美食",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "food",
+      "night-market",
+      "heritage"
+    ],
+    "image_url": "/images/routes/xiamen-zhongshan-road-food.webp"
+  },
+  {
+    "route_id": "xiamen-nanputuo-temple",
+    "title": "南普陀寺与厦大",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "image_url": "/images/routes/xiamen-nanputuo-temple.webp"
+  },
+  {
+    "route_id": "xiamen-zengcuoan-village",
+    "title": "曾厝垵文艺渔村",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "coffee",
+      "night-market",
+      "walking"
+    ],
+    "image_url": "/images/routes/xiamen-zengcuoan-village.webp"
+  },
+  {
+    "route_id": "xiamen-shapowei-art-zone",
+    "title": "沙坡尾避风坞艺术区",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "street-art",
+      "coffee",
+      "photography"
+    ],
+    "image_url": "/images/routes/xiamen-shapowei-art-zone.webp"
+  },
+  {
+    "route_id": "xiamen-yundang-lake-walk",
+    "title": "筼筜湖畔散步",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "walking",
+      "nature",
+      "photography"
+    ],
+    "image_url": "/images/routes/xiamen-yundang-lake-walk.webp"
+  },
+  {
+    "route_id": "xiamen-wanshan-botanical-garden",
+    "title": "万石植物园",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "garden",
+      "nature",
+      "photography"
+    ],
+    "image_url": "/images/routes/xiamen-wanshan-botanical-garden.webp"
+  },
+  {
+    "route_id": "xiamen-jimei-school-village",
+    "title": "集美学村嘉庚建筑",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "heritage",
+      "architecture"
+    ],
+    "image_url": "/images/routes/xiamen-jimei-school-village.webp"
+  },
+  {
+    "route_id": "xiamen-beach-coffee-sunset",
+    "title": "环岛路沙滩咖啡日落",
+    "country_code": "CN",
+    "city_id": "CN:xiamen",
+    "tags": [
+      "beach",
+      "sunset",
+      "coffee"
+    ],
+    "image_url": "/images/routes/xiamen-beach-coffee-sunset.webp"
+  }
+]

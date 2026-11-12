@@ -1,0 +1,142 @@
+[
+  {
+    "route_id": "shanghai-bund-architecture-walk",
+    "title": "外滩万国建筑漫步",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "heritage",
+      "architecture",
+      "walking"
+    ],
+    "image_url": "/images/routes/shanghai-bund-architecture-walk.webp"
+  },
+  {
+    "route_id": "shanghai-lujiazui-skyline-night",
+    "title": "陆家嘴天际线夜景",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "night",
+      "photography",
+      "landmark"
+    ],
+    "image_url": "/images/routes/shanghai-lujiazui-skyline-night.webp"
+  },
+  {
+    "route_id": "shanghai-yu-garden-bazaar",
+    "title": "豫园城隍庙老街",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "heritage",
+      "temple",
+      "market"
+    ],
+    "image_url": "/images/routes/shanghai-yu-garden-bazaar.webp"
+  },
+  {
+    "route_id": "shanghai-tianzifang-art-lanes",
+    "title": "田子坊艺术弄堂",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "street-art",
+      "coffee",
+      "walking"
+    ],
+    "image_url": "/images/routes/shanghai-tianzifang-art-lanes.webp"
+  },
+  {
+    "route_id": "shanghai-french-concession-plane-trees",
+    "title": "武康路梧桐区散步",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "walking",
+      "heritage",
+      "coffee"
+    ],
+    "image_url": "/images/routes/shanghai-french-concession-plane-trees.webp"
+  },
+  {
+    "route_id": "shanghai-zhujiajiao-water-town",
+    "title": "朱家角水乡古镇",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "heritage",
+      "river",
+      "cruise"
+    ],
+    "image_url": "/images/routes/shanghai-zhujiajiao-water-town.webp"
+  },
+  {
+    "route_id": "shanghai-observatory-sunset",
+    "title": "上海中心观光厅黄昏",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "sunset",
+      "photography",
+      "landmark"
+    ],
+    "image_url": "/images/routes/shanghai-observatory-sunset.webp"
+  },
+  {
+    "route_id": "shanghai-nanjing-road-shopping",
+    "title": "南京路步行街",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "shopping",
+      "night",
+      "landmark"
+    ],
+    "image_url": "/images/routes/shanghai-nanjing-road-shopping.webp"
+  },
+  {
+    "route_id": "shanghai-m50-art-district",
+    "title": "M50 创意园看展",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "street-art",
+      "photography"
+    ],
+    "image_url": "/images/routes/shanghai-m50-art-district.webp"
+  },
+  {
+    "route_id": "shanghai-xiaolongbao-food-tour",
+    "title": "小笼包寻味之旅",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "food",
+      "market"
+    ],
+    "image_url": "/images/routes/shanghai-xiaolongbao-food-tour.webp"
+  },
+  {
+    "route_id": "shanghai-huangpu-river-cruise",
+    "title": "黄浦江夜游",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "cruise",
+      "night"
+    ],
+    "image_url": "/images/routes/shanghai-huangpu-river-cruise.webp"
+  },
+  {
+    "route_id": "shanghai-century-park-family",
+    "title": "世纪公园亲子日",
+    "country_code": "CN",
+    "city_id": "CN:shanghai",
+    "tags": [
+      "family",
+      "garden"
+    ],
+    "image_url": "/images/routes/shanghai-century-park-family.webp"
+  }
+]

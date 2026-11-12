@@ -1,0 +1,19 @@
+# 构建产物与本地二进制
+bin/
+*.exe
+frontend/node_modules/
+frontend/dist/
+
+# 本地工具（k6 二进制太大，不入库）
+tools/k6*/
+
+# 补图过程文件（正式图在 frontend/public/images/）
+.imgwork/
+
+# AI 生成封面不入库（本地保留；克隆后可运行 tools/gen_images.py 重新生成）
+frontend/public/images/
+
+# 运行期数据与密钥
+.env
+*.log
+model/__pycache__/
